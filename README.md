@@ -1,1 +1,1 @@
-
+We aim to develop a hybrid classifier for disease diagnosis by combining two machine learning models: the genetic algorithm and support vector machine (SVM). Our goal is to demonstrate whether the genetic algorithm significantly enhances the performance of the SVM classifier by effectively identifying the optimal features for detection.
